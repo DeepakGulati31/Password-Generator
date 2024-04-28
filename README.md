@@ -15,9 +15,7 @@ This is a simple password generator tool that allows users to create strong and 
  https://deepakgulati31.github.io/Password-Generator/
 
 ## Screenshots
-<img width="700" alt="Screenshot 2024-04-28 at 12 43 40 PM" src="https://github.com/DeepakGulati31/Password-Generator/assets/139341428/98dab613-32ed-4786-b8bf-7d964c28f0e3">
-
-<img width="700" alt="Screenshot 2024-04-28 at 12 43 54 PM" src="https://github.com/DeepakGulati31/Password-Generator/assets/139341428/734cf966-3dee-416d-b394-207267aa6986">
+<img width="500" alt="Screenshot 2024-04-28 at 12 43 40 PM" src="https://github.com/DeepakGulati31/Password-Generator/assets/139341428/98dab613-32ed-4786-b8bf-7d964c28f0e3"> <img width="500" alt="Screenshot 2024-04-28 at 12 43 54 PM" src="https://github.com/DeepakGulati31/Password-Generator/assets/139341428/734cf966-3dee-416d-b394-207267aa6986">
 
 
 ## Contributing
